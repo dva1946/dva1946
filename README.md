@@ -5,7 +5,7 @@
 - 🌱 Release will be on GitHub with full open source code.
 - 🌱 In-depth IPN App documentation will be maintained on my website (listed below).
 - 🌱 Documentation will be maintained on my website, once released. 
-- 💞️ I’m looking to collaborate to further the use and development of NON-PLUGIN WORDPRESS APPS.
+- 💞️ I’m looking to collaborate to further the use and development of NON-PLUGIN WORDPRESS APPS (known as WpAppForThat).
 - 📫 https://wpappsforthat.com and email dva1946@yahoo.com
 
 <!---
