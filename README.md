@@ -5,7 +5,7 @@
 - 🌱 10-25-22 -> The IPN App has now been testedd live and successfuly processed 1,022 recs from PayPal.
 - 💞️ I’m looking to collaborate to further the use and development of NON-PLUGIN WORDPRESS APPS (known as WpAppsForThat).
 - 📫 https://wpappsforthat.com and email dva1946@yahoo.com
-- 💞️ [github](https://github.com/dva1946/paypal-ipn/wiki/Paypal-IPN-App-from-WpAppsForThat.Com)
+- 💞️ [wiki for paypal-ipn](https://github.com/dva1946/paypal-ipn/wiki/Paypal-IPN-App-from-WpAppsForThat.Com)
 <!---
 dva1946/dva1946 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
